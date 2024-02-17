@@ -1,0 +1,76 @@
+{
+  "UserData": {
+    "Name": "David Reed",
+    "Email": "kardamdestinations@gmail.com",
+    "Title": "Mr.",
+    "Password": "Password@123",
+    "Date of Birth": "1-August-2005",
+    "FirstName": "David",
+    "LastName": "Reed",
+    "CompanyName": "XYZ",
+    "Address1": "Street 4",
+    "Address2": "Lane 56",
+    "Country": "India",
+    "State": "Uttar Pradesh",
+    "City": "Noida",
+    "ZipCode": "201301",
+    "MobileNumber": "9804567890"
+  },
+  "CorrectUserCredentials": {
+    "username": "kardamdestinations@gmail.com",
+    "password": "Password@123"
+  },
+  "AddToCartData": {
+    "UserData": {
+      "username": "kardamdestinations@gmail.com",
+      "password": "Password@123",
+      "Title": "Mr.",
+      "Password": "Password@123",
+      "Date of Birth": "1-August-2005",
+      "FirstName": "David",
+      "LastName": "Reed",
+      "CompanyName": "XYZ",
+      "Address1": "Street 4",
+      "Address2": "Lane 56",
+      "Country": "India",
+      "State": "Uttar Pradesh",
+      "City": "Noida",
+      "ZipCode": "201301",
+      "MobileNumber": "9804567890"
+    },
+    "Products": [
+      {
+        "Category": "Women",
+        "SubCategory": "Saree",
+        "ProductName": "Beautiful Peacock Blue Cotton Linen Saree",
+        "Quantity": "2",
+        "Price": "5000"
+      },
+      {
+        "Category": "Men",
+        "SubCategory": "Tshirts",
+        "ProductName": "Pure Cotton V-Neck T-Shirt",
+        "Quantity": "2",
+        "Price": "1299"
+      },
+      {
+        "Category": "Kids",
+        "SubCategory": "Tops & Shirts",
+        "ProductName": "Full Sleeves Top Cherry - Pink",
+        "Quantity": "2",
+        "Price": "679"
+      }
+    ],
+    "RemoveProducts": [
+      "Pure Cotton V-Neck T-Shirt"
+    ],
+    "CardDetail": {
+      "NameOnCard": "David Reed",
+      "CardNumber": "234554358498",
+      "CVC": "234",
+      "Month": "09",
+      "Year": "2025"
+    },
+    "Comment": "Please deliver as soon as possible."
+  }
+}
