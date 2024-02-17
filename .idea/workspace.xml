@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a9af2c1-2e35-4cc8-89f2-ec151f990cf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configration/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configration/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver/adblock.crx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/CartPageObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/CheckoutPageObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/HomePageObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/LoginPageObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/PaymentPageObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/ProductPageObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/SignUpPageObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_AddToCart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_Login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +24,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WhQueyS3uOCZfTd2VY4XckMon0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Akansha.Kardam/PycharmProjects/AutomationExerciseTesting/TestCases&quot;
   }
 }</component>
